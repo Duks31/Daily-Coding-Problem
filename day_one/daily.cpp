@@ -13,3 +13,4 @@ int main() {
     std::cout << number_of_digits(1234) <<std::endl;
 }
     
+// OUTPUT >> 4 
