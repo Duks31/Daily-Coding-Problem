@@ -56,7 +56,7 @@ rectangles = [
     {
         "top_left": (1, 4),
         "dimensions": (3, 3)
-    },
+    }, 
     {
         "top_left": (-1, 3),
         "dimensions": (2, 1)
@@ -69,4 +69,3 @@ rectangles = [
 
 result = is_overlapping(rectangles)
 print(result)
-
